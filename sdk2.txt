@@ -1,5 +1,5 @@
 ﻿Here's the **exact one-by-one installation commands** for **only the SDK packages shown in your screenshots**, preserving all original versions (including older/obsolete ones):
-
+that was right message
 ---
 
 ### **Core Platforms (Exact Versions from Your Screenshots)**
