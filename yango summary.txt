@@ -1,0 +1,99 @@
+Yango app system functionality summary documentation
+
+-fee reduction
+#invite get reduction fee of 50% off per invite 700 max
+#first 3 courses get 20% off 300 max
+#fast assistance
+
+-categories (classes)
+#1st category
+(low level cars with minimum charateristics)
+
+#2nd category
+(cars get climatisation upgrade)
+
+#3rd category
+(increase in space and available climatisation)
+
+#4th category
+(moto byke for flexible movement(1 passenger))
+
+-security measures
+#possibility to share live movements with peers and mentors ,to ensure live movement remote follow up.
+#verified drivers for more safety.
+(registering form,pics demanded and tested)
+#24/7 available assistant agents.
+#emergency button
+
+-regsitration needs :
+#users phone number
+
+-hailing steps:
+#verify actual position
+#select destination(eased selection user interface)
+#select your class and bundle
+#press hail and wait for loading search to finish
+
+-bonuses
+#stops included 3 max
+
+-payment method:
+#liquid
+
+partner with other local taxi groups businesses chef or individuals.
+-upportunities.
+#every week minimum binus of 1300f payment
+#working rate scheduled by individuals
+#rent or use personal vehicle
+#receive payment from buyer.
+button start to start.
+
+monetary sytem:
+#Cancellation Fees:
+Yango may also charge cancellation fees to both passengers and drivers in certain situations, such as if a ride is canceled after the driver has arrived or if the passenger takes too long to arrive at the pickup location
+
+#Other Services:
+While ride-hailing is the core business, Yango also offers other services like food delivery and potentially others, which could contribute to their overall revenue. 
+
+#Partner Agreements:
+Yango also partners with car owners who rent their vehicles to the company and receive a fixed weekly income. 
+
+e's a breakdown of the calculation:
+
+    Base Fare:
+    A minimum price is set for a short distance (e.g., 3 minutes and 1 km). 
+
+Distance:
+A price per kilometer is added to the base fare, with different rates for travel within the city and to the suburbs. 
+Time:
+A price per minute is added to the base fare, especially when factoring in wait time. 
+Pickup Fee:
+A fee may be added based on the distance between the vehicle and the pickup location and the time it takes to reach the user. 
+Wait Time:
+A free wait time is included, but paid wait time is added if the free time is exceeded. 
+Cancellation Fee:
+A fee may be applied if a ride is canceled after a certain point, especially if the vehicle has already been dispatched. 
+Surge Pricing:
+In certain situations, like increased demand or reduced availability, the price may increase. 
+
+example:
+In Yaoundé, the minimum price is set at 460 FCFA for the first 3 minutes and 1 km. The price per minute of wait time is 27 FCFA. The price per kilometer is 100 FCFA within the city and 160 FCFA in the suburbs. A pickup fee is also calculated based on the distance to the pickup point. 
+
+
+
+how they register:
+Yango drivers register and are verified through a multi-step process involving the (Yango Pro app), document uploads, and potentially a photo check. First, drivers download the Yango Pro app and register using their passport for verification. Next, they complete a photo check and upload necessary documents, such as a valid ID or passport, SOAT (if applicable), and driver's license. Mandatory documents include a copy of their Tax Identification Number (NIT Unipersonal) and Employer Registration (ROE-Ministry of Labor). After completing the registration form and document submission, drivers can start receiving ride requests. 
+
+
+
+    SOAT (Seguro Obligatorio de Accidentes de Tránsito):
+    In Colombia, the SOAT is a mandatory insurance policy for all vehicles. It covers expenses related to traffic accidents, including injuries or death to those involved. By verifying the SOAT, Yango ensures that drivers have this crucial insurance, protecting them and their passengers in case of accidents. 
+
+NIT (Número de Identificación Tributaria):
+The NIT is a unique tax identification number for individuals and businesses. In the context of Yango, it's likely used for identifying and managing drivers for tax and legal purposes. 
+Employer Registration:
+This likely refers to the process of registering drivers as independent contractors or employees, depending on the local regulations and Yango's operational structure. It helps Yango comply with labor laws and ensure drivers are properly classified for tax and legal purposes. 
+Background Checks and Vetting:
+Yango also conducts thorough background checks on drivers, including verifying their licenses and vehicle information, to maintain safety standards. 
+
+
